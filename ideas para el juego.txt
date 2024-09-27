@@ -1,0 +1,2 @@
+Obstáculo
+niveles : subir la velocidad y aumentar obstáculos

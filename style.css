@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0f0f0f;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #06fd5c;
+}
+p {
+    color: #f5f2f2;
+}
+
+canvas {
+    background-color: #060505;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #06fd5c;
+    border-radius: 5px;
+    background-image: url(IMG/TalentoTech.png);
+    background-size: 100px 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#startButton{
+    background-color: rgb(8, 107, 33);
+    color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+
+}
+label{
+    color: #fbf9f9;
+}
+#playerNameInput{
+    background-color: black;
+    color: #f5f2f2;
+    border-radius: 5px;
+    border-color: #06fd5c;
+}
