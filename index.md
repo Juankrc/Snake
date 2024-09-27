@@ -1,3 +1,3 @@
 layout: page
 title: "SNAKE"
-permalink: /Snake/index.html
+permalink: /Snake/index
